@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-size: 80px;
+    font-family: monospace;
+}
+
+html {
+    background-color: rgb(64, 74, 107);
+}
+
+button {
+    border: 1;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 25px;
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+    background-color: whitesmoke;
+    padding: 10px;
+    font-size: 21.5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bomb {
+    color: rgb(64, 74, 107);
+    background-color: rgb(64, 74, 107);
+}
+
+label {
+    text-align: center;
+    margin-left: 820px;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.output-container {
+    text-align: center;
+    font-size: 50px;
+}
